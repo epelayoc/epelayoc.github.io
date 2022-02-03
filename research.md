@@ -6,7 +6,7 @@ permalink: /research/
 
 
 
-## Publications
+# Publications
 
 - E. Pelayo, J. D. Buldain, *MS-SOM: Magnitude Sensitive Self-Organizing Maps, Competitive Learning,* AICS, Ed. Springer (2014)
 - E. Pelayo, J. D. Buldain, C. Orrite, *Magnitude Sensitive Competitive Learning,* Neurocomputing 112, Ed. Elsevier (2013) 
