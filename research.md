@@ -4,7 +4,6 @@ title: research
 permalink: /research/
 ---
 
-Interest in: Artificial Intelligence (Deep Learning, Reinforcement Learning, Fuzzy Logic, Genetic Algorithms, XAI), Embedded Systems, Robotics, Electronics, Automation, Manufacturing.
 
 # Publications
 
